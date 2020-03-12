@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a02016-8a8e-4606-8dc2-b4027970d615" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="76a02016-8a8e-4606-8dc2-b4027970d615" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +69,7 @@
       <workItem from="1583484935780" duration="22762000" />
       <workItem from="1583642486929" duration="7904000" />
       <workItem from="1583658915462" duration="332000" />
+      <workItem from="1583985878904" duration="378000" />
     </task>
     <servers />
   </component>
@@ -120,6 +117,10 @@
       <screen x="0" y="0" width="1728" height="1122" />
     </state>
     <state x="366" y="202" key="SettingsEditor/0.0.1728.1122@0.0.1728.1122" timestamp="1583648559096" />
+    <state x="650" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583986341002">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state x="650" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1728.1122@0.0.1728.1122" timestamp="1583986341002" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/CodeRepos/luogu/P1563.cpp" "C:/CodeRepos/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1563.cpp.obj"
+  "C:/CodeRepos/luogu/P1023.cpp" "C:/CodeRepos/luogu/cmake-build-debug/CMakeFiles/luogu.dir/P1023.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

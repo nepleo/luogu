@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/CodeRepos/luogu/P1563.cpp
+C:/CodeRepos/luogu/P1023.cpp
 iostream
 -
-string
+algorithm
+-
+cstdio
+-
+cmath
 -
 

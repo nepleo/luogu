@@ -122,32 +122,32 @@ luogu/fast:
 	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/build
 .PHONY : luogu/fast
 
-P1042.obj: P1042.cpp.obj
+P1086.obj: P1086.cpp.obj
 
-.PHONY : P1042.obj
+.PHONY : P1086.obj
 
 # target to build an object file
-P1042.cpp.obj:
-	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/P1042.cpp.obj
-.PHONY : P1042.cpp.obj
+P1086.cpp.obj:
+	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/P1086.cpp.obj
+.PHONY : P1086.cpp.obj
 
-P1042.i: P1042.cpp.i
+P1086.i: P1086.cpp.i
 
-.PHONY : P1042.i
+.PHONY : P1086.i
 
 # target to preprocess a source file
-P1042.cpp.i:
-	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/P1042.cpp.i
-.PHONY : P1042.cpp.i
+P1086.cpp.i:
+	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/P1086.cpp.i
+.PHONY : P1086.cpp.i
 
-P1042.s: P1042.cpp.s
+P1086.s: P1086.cpp.s
 
-.PHONY : P1042.s
+.PHONY : P1086.s
 
 # target to generate assembly for a file
-P1042.cpp.s:
-	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/P1042.cpp.s
-.PHONY : P1042.cpp.s
+P1086.cpp.s:
+	$(MAKE) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/P1086.cpp.s
+.PHONY : P1086.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... luogu
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... P1042.obj
-	@echo ... P1042.i
-	@echo ... P1042.s
+	@echo ... P1086.obj
+	@echo ... P1086.i
+	@echo ... P1086.s
 .PHONY : help
 
 

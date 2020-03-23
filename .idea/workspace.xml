@@ -13,11 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76a02016-8a8e-4606-8dc2-b4027970d615" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1177.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/P1177.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/luogu.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/luogu.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/luogu.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/luogu.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/luogu.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/luogu.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +98,7 @@
       <workItem from="1584785177021" duration="500000" />
       <workItem from="1584850194679" duration="1037000" />
       <workItem from="1584851365207" duration="9493000" />
-      <workItem from="1584932576122" duration="7400000" />
+      <workItem from="1584932576122" duration="7735000" />
     </task>
     <task id="LOCAL-00001" summary="add &quot;P1023&quot;">
       <created>1583986399884</created>
@@ -167,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584944352349</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add P1177.cpp">
+      <created>1584949631313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584949631313</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,10 +212,10 @@
       <screen x="0" y="0" width="1728" height="1122" />
     </state>
     <state x="620" y="260" key="#xdebugger.evaluate/0.0.1728.1122@0.0.1728.1122" timestamp="1584856044168" />
-    <state x="393" y="152" key="CommitChangelistDialog2" timestamp="1584944351872">
+    <state x="393" y="152" key="CommitChangelistDialog2" timestamp="1584949630773">
       <screen x="0" y="0" width="1728" height="1122" />
     </state>
-    <state x="393" y="152" key="CommitChangelistDialog2/0.0.1728.1122@0.0.1728.1122" timestamp="1584944351872" />
+    <state x="393" y="152" key="CommitChangelistDialog2/0.0.1728.1122@0.0.1728.1122" timestamp="1584949630773" />
     <state x="93" y="93" width="1542" height="936" key="DiffContextDialog" timestamp="1584349444008">
       <screen x="0" y="0" width="1728" height="1122" />
     </state>
@@ -257,10 +260,10 @@
       <screen x="0" y="0" width="1728" height="1122" />
     </state>
     <state x="93" y="93" width="1542" height="936" key="ShowDiffWithBranchDialog/0.0.1728.1122@0.0.1728.1122" timestamp="1584079588192" />
-    <state x="457" y="294" key="Vcs.Push.Dialog.v2" timestamp="1584944360733">
+    <state x="457" y="294" key="Vcs.Push.Dialog.v2" timestamp="1584949658030">
       <screen x="0" y="0" width="1728" height="1122" />
     </state>
-    <state x="457" y="294" key="Vcs.Push.Dialog.v2/0.0.1728.1122@0.0.1728.1122" timestamp="1584944360733" />
+    <state x="457" y="294" key="Vcs.Push.Dialog.v2/0.0.1728.1122@0.0.1728.1122" timestamp="1584949658030" />
     <state x="93" y="93" width="1542" height="936" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1584079588192">
       <screen x="0" y="0" width="1728" height="1122" />
     </state>

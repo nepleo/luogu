@@ -3,4 +3,4 @@ project(luogu)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(luogu  P1177.cpp)
+add_executable(luogu P2196.cpp)

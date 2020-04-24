@@ -56,27 +56,27 @@ include CMakeFiles/luogu.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/luogu.dir/flags.make
 
-CMakeFiles/luogu.dir/P1177.cpp.obj: CMakeFiles/luogu.dir/flags.make
-CMakeFiles/luogu.dir/P1177.cpp.obj: ../P1177.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\CodeRepos\luogu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/luogu.dir/P1177.cpp.obj"
-	C:\App\MingW64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\luogu.dir\P1177.cpp.obj -c C:\CodeRepos\luogu\P1177.cpp
+CMakeFiles/luogu.dir/P2196.cpp.obj: CMakeFiles/luogu.dir/flags.make
+CMakeFiles/luogu.dir/P2196.cpp.obj: ../P2196.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\CodeRepos\luogu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/luogu.dir/P2196.cpp.obj"
+	C:\App\MingW64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\luogu.dir\P2196.cpp.obj -c C:\CodeRepos\luogu\P2196.cpp
 
-CMakeFiles/luogu.dir/P1177.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/luogu.dir/P1177.cpp.i"
-	C:\App\MingW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\CodeRepos\luogu\P1177.cpp > CMakeFiles\luogu.dir\P1177.cpp.i
+CMakeFiles/luogu.dir/P2196.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/luogu.dir/P2196.cpp.i"
+	C:\App\MingW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\CodeRepos\luogu\P2196.cpp > CMakeFiles\luogu.dir\P2196.cpp.i
 
-CMakeFiles/luogu.dir/P1177.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/luogu.dir/P1177.cpp.s"
-	C:\App\MingW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CodeRepos\luogu\P1177.cpp -o CMakeFiles\luogu.dir\P1177.cpp.s
+CMakeFiles/luogu.dir/P2196.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/luogu.dir/P2196.cpp.s"
+	C:\App\MingW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CodeRepos\luogu\P2196.cpp -o CMakeFiles\luogu.dir\P2196.cpp.s
 
 # Object files for target luogu
 luogu_OBJECTS = \
-"CMakeFiles/luogu.dir/P1177.cpp.obj"
+"CMakeFiles/luogu.dir/P2196.cpp.obj"
 
 # External object files for target luogu
 luogu_EXTERNAL_OBJECTS =
 
-luogu.exe: CMakeFiles/luogu.dir/P1177.cpp.obj
+luogu.exe: CMakeFiles/luogu.dir/P2196.cpp.obj
 luogu.exe: CMakeFiles/luogu.dir/build.make
 luogu.exe: CMakeFiles/luogu.dir/linklibs.rsp
 luogu.exe: CMakeFiles/luogu.dir/objects1.rsp
